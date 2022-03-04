@@ -1,10 +1,15 @@
+import Form from "./components/Form/Form";
+import List from "./components/List/List";
 
 function App() {
+
   return (
     <div>
-      Hello
+      <Form/>
+      <List/>
     </div>
   );
 }
 
 export default App;
+m
